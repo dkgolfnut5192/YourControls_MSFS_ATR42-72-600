@@ -6,7 +6,7 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
 
 *** On the File Named ATR 42-72-600_DKGOLFNUT_V1_3_WITHOUT KNOBS.yml the synchorination on the knobs mentioned above is commented out. WHat this means is you will have to manually synch by verbally discussing any movement to those knobs and Manually adjusting them in both Planes (Pilot and First Officer) ***
 
-*** On the File Named ATR 42-72-600_DKGOLFNUT_V1_3_WITH KNOBS.yml the synchorination on the knobs will work if the knobs are turned very slowly. If you do not turn the knobs slowly the two planes will be showing different values inteh windows for the knobs mentioned. Due to this, you must turn the knobs slowly or a desynch will happen. If you have issues turning the knobs slowly enough I would recomment using the "WITHOUT KNOBS" version and manually synchronizing ***
+*** On the File Named ATR 42-72-600_DKGOLFNUT_V1_3_WITH KNOBS.yml the synchorination on the knobs will work if the knobs are turned very slowly. If you do not turn the knobs slowly the two planes will be showing different values inteh windows for the knobs mentioned. Due to this, you must turn the knobs slowly or a desynch will happen. If you have issues turning the knobs slowly enough, I would recommendusing the "WITHOUT KNOBS" version and manually synchronizing ***
 
 Known Issues:
 For Profile WITH KNOBS, dials mentioned above must be turned very slowly for them to synch
