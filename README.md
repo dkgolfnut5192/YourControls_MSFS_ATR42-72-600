@@ -2,9 +2,9 @@
 YourControls_MSFS_ATR42-72 600
 Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis
 
-# I have created 2 files for this due to issues with synchronization isssues with Knobs for Speed TGT, Decision Height, (FCGP) ALT, Pitch Wheel, and Course.
+*** I have created 2 files for this due to issues with synchronization isssues with Knobs for Speed TGT, Decision Height, (FCGP) ALT, Pitch Wheel, and Course. ***
 
-# On the File Named ATR 42-72-600_DKGOLFNUT_V1_3_Without KNOBS.yml the synchorination ont the knobs mentioned above is commented out. WHat this means is you will have to manually synch by verbally discussing any movement to those knobs and Manually adjusting them in both Planes (Pilot and First Officer)
+*** On the File Named ATR 42-72-600_DKGOLFNUT_V1_3_Without KNOBS.yml the synchorination ont the knobs mentioned above is commented out. WHat this means is you will have to manually synch by verbally discussing any movement to those knobs and Manually adjusting them in both Planes (Pilot and First Officer) ***
 
 
 Known Issues:
