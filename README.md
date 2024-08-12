@@ -11,7 +11,7 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
 Known Issues:
 - For Profile WITH KNOBS, dials mentioned above must be turned very slowly for them to synch
 
-- For Profile WITHOUT KNOBS the buttons mentioned above will have to be manually sichroinized with pilot and First Officer so the planes will be coordinated in configuration changes
+- For Profile WITHOUT KNOBS the buttons mentioned above will have to be manually synchroinized with pilot and First Officer so the planes will be coordinated in configuration changes
 
 - PROP GURAD may not be Synched
 
