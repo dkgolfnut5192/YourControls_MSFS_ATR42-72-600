@@ -11,6 +11,8 @@ Profile to work with YourControls application and MSFS2020. If you find any bugs
 Known Issues:
 - For Profile WITH KNOBS, dials mentioned above must be turned very slowly for them to synch
 
+- MCDU buttons have some latency issues so please click FMC buttons and hold for 1/2 second and release. the coding from teh developer of the plane require to vars to synchronize button clicks which is a challenge for YC's to pick up
+
 - For Profile WITHOUT KNOBS the buttons mentioned above will have to be manually synchroinized with pilot and First Officer so the planes will be coordinated in configuration changes
 
 - PROP GURAD may not be Synched
