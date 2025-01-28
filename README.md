@@ -1,5 +1,7 @@
 # YourControls_MSFS_ATR42-72-600
 YourControls_MSFS_ATR42-72 600
+# Made for MSFS2020 and not validated for 2024
+
 Profile to work with YourControls application and MSFS2020. If you find any bugs, please contact me on YourControls Discord: Dkgolfnut_Dennis
 
 *** I have created 2 files for this due to issues with synchronization isssues with Knobs for Speed TGT, Decision Height, (FCGP) ALT, Pitch Wheel, and Course. If you download the .ZIP file it will contain both versions ***
